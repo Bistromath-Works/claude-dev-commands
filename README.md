@@ -140,6 +140,12 @@ Use `/dev-ship` (or `/dev-go`) as a pre-commit gate during development. Use `/sh
 
 ---
 
+## Contributors
+
+- [@Bistromath-Works](https://github.com/Bistromath-Works)
+
+---
+
 ## License
 
 MIT — see [LICENSE](LICENSE).
