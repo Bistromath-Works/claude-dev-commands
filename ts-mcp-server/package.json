@@ -2,6 +2,11 @@
   "name": "ts-mcp-server",
   "version": "0.1.0",
   "private": true,
+  "contributors": [
+    "Bistromath-Works",
+    "Claude",
+    "ArthurDentsTowel"
+  ],
   "scripts": {
     "dev": "node --env-file=.env.local --import tsx scripts/serve.ts",
     "index-corpus": "node --env-file=.env.local --import tsx scripts/index-corpus.ts"
